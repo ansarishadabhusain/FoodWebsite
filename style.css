@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,400;1,600;1,700;1,800&display=swap');
+.p@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,400;1,600;1,700;1,800&display=swap');
 *{
     font-family: 'Poppins', sans-serif;
     margin: 0%;
@@ -363,7 +363,7 @@ section{
         position: relative;
         width: 40px;
         height: 40px;
-        background: url(https://icon-library.com/images/menu-icon-png-3-lines/menu-icon-png-3-lines-5.jpg);
+        background: url(menu.png);
         background-size: 30px;
         background-repeat: no-repeat;
         background-position: center;
@@ -371,7 +371,7 @@ section{
     }
     .menuToggle.active
     {
-        background: url(https://www.iconsdb.com/icons/preview/white/x-mark-xxl.png);
+        background: url(close.png);
         background-size: 25px;
         background-repeat: no-repeat;
         background-position: center;
